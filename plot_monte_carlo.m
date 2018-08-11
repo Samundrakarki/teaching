@@ -2,7 +2,6 @@ function [] = plot_monte_carlo(N, X, xi_disk)
 
 inside_count = sum(xi_disk);
     
-figure;
 
 plot_geometry;
 
