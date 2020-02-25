@@ -9,3 +9,6 @@ Launch kNN classification Jupyter notebook:
 Launch linear regression (on 1d input) Jupyter notebook: 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/zaspel/teaching.git/master?filepath=linear_regression_1d.ipynb)
 
+Launch linear regression (on 2d input) Jupyter notebook: 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/zaspel/teaching.git/master?filepath=linear_regression_2d.ipynb)
+
